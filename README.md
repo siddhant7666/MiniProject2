@@ -7,6 +7,8 @@ Here's the desktop view:
 
 
 Here's the IPad view:
+
+
 ![Screenshot 2023-08-10 130939](https://github.com/siddhant7666/MiniProject2/assets/109289709/4a5a4ea9-b847-42fb-93cd-44a7d495137f)
 
 
