@@ -7,15 +7,17 @@ Here's the desktop view:
 
 
 Here's the IPad view:
+![Screenshot 2023-08-10 130939](https://github.com/siddhant7666/MiniProject2/assets/109289709/4a5a4ea9-b847-42fb-93cd-44a7d495137f)
 
-![siddhant7666 github io_MiniProject2_(iPad Air)](https://github.com/siddhant7666/MiniProject2/assets/109289709/dbf8050c-d89d-49dc-9186-1adebad67ed5)
+
 
 
 
 Here's the mobile view:
 
-![siddhant7666 github io_MiniProject2_(iPhone 12 Pro)](https://github.com/siddhant7666/MiniProject2/assets/109289709/5a293e05-d0d0-44f8-b586-4285d446bbfa)
 
+
+![Screenshot 2023-08-10 130958](https://github.com/siddhant7666/MiniProject2/assets/109289709/ab4bf25f-c23b-4e16-be0f-cd759d27dfbe)
 
 
 
